@@ -22,15 +22,15 @@ Insertando una imagen mediante URL.
 
 <img>https://i.imgur.com/wuEYQ8V.jpg</img>
 
-
-
-for(i =0; i<10;i++)
+for(i=0; i<10; i++)
 
 {
 
-push_back(prueba);
+​	push_back(prueba);
 
 }
+
+![https://i.imgur.com/wuEYQ8V.jpg]()
 
 
 
@@ -38,7 +38,7 @@ Hiperenlace.
 
 [Google.es](http://www.google.es)
 
-[Forocoches](http://www.forocoches.com "¿Título opcional?")
+[Forocoches](www.forocoches.com "¿Título opcional?")
 
 Enlace referencia:
 
