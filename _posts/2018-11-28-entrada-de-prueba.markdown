@@ -22,7 +22,13 @@ Insertando una imagen mediante URL.
 
 <img>https://i.imgur.com/wuEYQ8V.jpg</img>
 
+for(i=0; i<10; i++)
 
+{
+
+​	push_back(prueba);
+
+}
 
 Hiperenlace.
 
