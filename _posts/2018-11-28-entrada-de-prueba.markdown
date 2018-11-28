@@ -24,11 +24,21 @@ Insertando una imagen mediante URL.
 
 
 
+for(i =0; i<10;i++)
+
+{
+
+push_back(prueba);
+
+}
+
+
+
 Hiperenlace.
 
-[Google.es](www.google.es)
+[Google.es](http://www.google.es)
 
-[Forocoches](www.forocoches.com "¿Título opcional?")
+[Forocoches](http://www.forocoches.com "¿Título opcional?")
 
 Enlace referencia:
 
