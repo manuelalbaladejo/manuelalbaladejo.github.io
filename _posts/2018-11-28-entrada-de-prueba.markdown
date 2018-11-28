@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Entrada de prueba"
-date:   2018-11-28 21:59:07 +0100
+date:   2018-11-28 22:59:07 +0100
 categories: 
 ---
 ### Texto de prueba.
@@ -32,7 +32,7 @@ for(i=0; i<10; i++)
 
 ![https://i.imgur.com/wuEYQ8V.jpg]()
 
-
+[Probando URL](https://i.imgur.com/wuEYQ8V.jpg)
 
 Hiperenlace.
 
