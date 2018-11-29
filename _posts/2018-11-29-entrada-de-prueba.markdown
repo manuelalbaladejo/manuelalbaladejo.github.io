@@ -71,6 +71,8 @@ for(i=0; i<10; i++)
 
 ##### Links and references.
 
+<a href="http://www.google.es/" target="_blank">www.google.es</a>
+
 For more tutoriales, please visit the [Programming Historian](http://www.google.es).
 
 One example is the [Programming Historian][1] website.
